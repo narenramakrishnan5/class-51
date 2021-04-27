@@ -1,0 +1,18 @@
+h1{color:brown}
+.header{background-color:rgb(0, 183, 255);
+display:flex;
+justify-content:space-between;}
+.site-description{display:flex;
+flex-direction: column;
+justify-content: first baseline;}
+.menu{background-color: chartreuse;
+}
+.grid{display:flex;
+flex-wrap:wrap ;
+justify-content: space-evenly;}
+.footer{display:flex;
+justify-content: flex-end;}
+p,h2{text-align: center;
+    background-color: yellow;}
+body{background-color:#808080 ;}
+
